@@ -1,0 +1,31 @@
+body{
+    background: rgb(41, 3, 3);
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(241, 38, 38);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title{
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+.botao{
+    margin-top: 7px;
+    padding-left: 3.45cm;
+    padding-right: 3.45cm;
+    color: rgb(41, 3, 3);
+    background: rgb(235, 100, 100);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.botao:hover{
+    background-color:white;
+    color:black;
+}
